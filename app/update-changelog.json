@@ -1,6 +1,6 @@
 {
   "latestVersion": "0.1.4b",
-  "latestVersionCode": "5",
+  "latestVersionCode": "4",
   "url": "http://iotex.io",
   "releaseNotes": [
     "- add auto update support download apk",
