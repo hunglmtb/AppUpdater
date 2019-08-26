@@ -1,9 +1,10 @@
 {
-  "latestVersion": "0.1.4b",
-  "latestVersionCode": "4",
-  "url": "http://iotex.io",
+  "latestVersion": "v0.3.4 (280)",
+  "latestVersionCode": "280",
+  "https://iopay-app.s3.amazonaws.com/iopay-release.apk",
   "releaseNotes": [
-    "- add auto update support download apk",
-    "- Bug fixes"
+    "- support IOTX and VITA ",
+    "- multi lang support",
+    "- bug fixes"
   ]
 }
