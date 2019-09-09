@@ -1,11 +1,10 @@
 {
-  "latestVersion": "v0.3.6 (299)",
-  "latestVersionCode": "299",
+  "latestVersion": "v0.3.7 (310)",
+  "latestVersionCode": "310",
   "url": "https://iopay-app.s3.amazonaws.com/iopay-release.apk",
   "releaseNotes": [
-    "- mixpannel analysis ",
-    "- multiple language support",
-    "- bug fix and improve",
-    "- apk auto update"
+    "- Discover page",
+    "- Bug fix",
+    "- Vita Dapp"
   ]
 }
